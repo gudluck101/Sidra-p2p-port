@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/success"
+  to = "/otp.html"
+  status = 200
